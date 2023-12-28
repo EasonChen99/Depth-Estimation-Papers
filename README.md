@@ -11,6 +11,8 @@ A collection of depth estimation papers.
 - [Multi-Focus Image Based Depth Estimation](#2-Multi-Focus-Image-Based-Depth-Estimation)
 - [Survey](#3-Survey)
 - [Datasets](#4-Datasets)
+  - [Outdoor](#41-Outdoor)
+  - [Indoor](#42-Indoor)
 
 # 1. Monocular Depth Estimation
 
@@ -63,7 +65,12 @@ A collection of depth estimation papers.
 
 # 4. Datasets
 
-- [KITTI Dataset](https://www.cvlibs.net/datasets/kitti/index.php)
-- [NYU Depth Dataset V2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
-- [Make3D Dataset](http://make3d.cs.cornell.edu/data.html#make3d)
+## 4.1 Outdoor
+- [KITTI](https://www.cvlibs.net/datasets/kitti/index.php)
+- [DDAD](https://github.com/TRI-ML/DDAD?tab=readme-ov-file)
+- [nuScenes](https://www.nuscenes.org/)
+- [Make3D](http://make3d.cs.cornell.edu/data.html#make3d)
+
+## 4.2  Indoor
+- [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 - [7-Scenes](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/)
