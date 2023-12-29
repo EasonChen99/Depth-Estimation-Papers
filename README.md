@@ -20,7 +20,7 @@ A collection of depth estimation papers.
 
 | Paper | Source      | Resource | Comment |
 | --- |-------------| --- | --- |
-| [iDisc: Internal Discretization for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf) | CVPR 2023 | [[Code]](https://github.com/SysCV/idisc) | high-level patterns |
+| [iDisc: Internal Discretization for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf) | CVPR 2023 | [[Code]](https://github.com/SysCV/idisc) | High-Level Patterns |
 | [Trap Attention: Monocular Depth Estimation with Manual Traps](https://openaccess.thecvf.com/content/CVPR2023/papers/Ning_Trap_Attention_Monocular_Depth_Estimation_With_Manual_Traps_CVPR_2023_paper.pdf) | CVPR 2023 | [[Code]](https://github.com/ICSResearch/TrapAttention) | Transformer, Lightweight |
 | [NDDepth: Normal-Distance Assisted Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_NDDepth_Normal-Distance_Assisted_Monocular_Depth_Estimation_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/ShuweiShao/NDDepth) | Scene Geometry Constraint |
 | [Learning Depth Estimation for Transparent and Mirror Surfaces](https://openaccess.thecvf.com/content/ICCV2023/papers/Costanzino_Learning_Depth_Estimation_for_Transparent_and_Mirror_Surfaces_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/CVLAB-Unibo/Depth4ToM-code#-learning-depth-estimation-for-transparent-and-mirror-surfaces-iccv-2023-) | Transparent and Mirror Surfaces |
@@ -28,10 +28,10 @@ A collection of depth estimation papers.
 | [GEDepth: Ground Embedding for Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_GEDepth_Ground_Embedding_for_Monocular_Depth_Estimation_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/qcraftai/gedepth) | Zero-Shot |
 | [IEBins: Iterative Elastic Bins for Monocular Depth Estimation](https://arxiv.org/pdf/2309.14137.pdf) | NIPS 2023 | [[Code]](https://github.com/ShuweiShao/IEBins) | Classification-Regression-Based |
 | [The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation](https://arxiv.org/pdf/2306.01923.pdf) | NIPS 2023 |  | Diffusion Model |
-| [Deep Ordinal Regression Network for Monocular Depth Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf) | CVPR 2018 |  | First Work To Turn Regression To Classification |
+| [Deep Ordinal Regression Network for Monocular Depth Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf) | CVPR 2018 |  | First Work to Turn Regression to Classification |
 | [Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Multi-Scale_Continuous_CRFs_CVPR_2017_paper.pdf) | CVPR 2017 |  |  |
 | [Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture](https://openaccess.thecvf.com/content_iccv_2015/papers/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.pdf) | ICCV 2015 |  |  |
-| [Depth map prediction from a single image using a multi-scale deep network](https://proceedings.neurips.cc/paper_files/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf) | NIPS 2014 |  | First work to utilize DL for Monocular Depth Estimation |
+| [Depth map prediction from a single image using a multi-scale deep network](https://proceedings.neurips.cc/paper_files/paper/2014/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf) | NIPS 2014 |  | First Work to Utilize DL for Monocular Depth Estimation |
 
 ## 1.2 Self-Supervised
 
