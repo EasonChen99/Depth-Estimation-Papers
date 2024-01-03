@@ -13,6 +13,7 @@ A collection of depth estimation papers.
 - [Datasets](#4-Datasets)
   - [Outdoor](#41-Outdoor)
   - [Indoor](#42-Indoor)
+  - [Both](#43-Both)
 
 # 1. Monocular Depth Estimation
 
@@ -20,6 +21,7 @@ A collection of depth estimation papers.
 
 | Paper | Source      | Resource | Comment |
 | --- |-------------| --- | --- |
+| [Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation](https://arxiv.org/abs/2312.02145) | arXiv 2023 | [[Code]](https://github.com/prs-eth/marigold) | Zero-Shot |
 | [iDisc: Internal Discretization for Monocular Depth Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf) | CVPR 2023 | [[Code]](https://github.com/SysCV/idisc) | High-Level Patterns |
 | [Trap Attention: Monocular Depth Estimation with Manual Traps](https://openaccess.thecvf.com/content/CVPR2023/papers/Ning_Trap_Attention_Monocular_Depth_Estimation_With_Manual_Traps_CVPR_2023_paper.pdf) | CVPR 2023 | [[Code]](https://github.com/ICSResearch/TrapAttention) | Transformer, Lightweight |
 | [NDDepth: Normal-Distance Assisted Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_NDDepth_Normal-Distance_Assisted_Monocular_Depth_Estimation_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/ShuweiShao/NDDepth) | Scene Geometry Constraint |
@@ -84,3 +86,7 @@ A collection of depth estimation papers.
 - [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 - [7-Scenes](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/)
 - [ScanNet](http://www.scan-net.org/)
+
+## 4.3 Both
+- [ETH3D](https://www.eth3d.net/datasets)
+- [DIODE](https://diode-dataset.org/)
