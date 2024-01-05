@@ -11,9 +11,6 @@ A collection of depth estimation papers.
 - [Multi-Focus Image Based Depth Estimation](#2-Multi-Focus-Image-Based-Depth-Estimation)
 - [Survey](#3-Survey)
 - [Datasets](#4-Datasets)
-  - [Outdoor](#41-Outdoor)
-  - [Indoor](#42-Indoor)
-  - [Both](#43-Both)
 
 # 1. Monocular Depth Estimation
 
@@ -90,3 +87,10 @@ A collection of depth estimation papers.
 ## 4.3 Both
 - [ETH3D](https://www.eth3d.net/datasets)
 - [DIODE](https://diode-dataset.org/)
+
+## 4.4 Adverse (night、rain e.t.)
+- [Translated Images](https://docs.google.com/forms/d/e/1FAIpQLSc3tdHN9VqKVVU5Uho3i4qf4y-ZY9hOF80rFM6sKxuu978P1A/viewform)
+
+## 4.5 Transparent & Reflection
+- [Trans10K and MSD with Virtual Depths](https://1drv.ms/u/s!AgV49D1Z6rmGgZAz2I7tMepfdVrZYQ?e=jbuaJB)
+- [Booster](https://cvlab-unibo.github.io/booster-web/)
