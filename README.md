@@ -25,6 +25,7 @@ A collection of depth estimation papers.
 | [Learning Depth Estimation for Transparent and Mirror Surfaces](https://openaccess.thecvf.com/content/ICCV2023/papers/Costanzino_Learning_Depth_Estimation_for_Transparent_and_Mirror_Surfaces_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/CVLAB-Unibo/Depth4ToM-code#-learning-depth-estimation-for-transparent-and-mirror-surfaces-iccv-2023-) | Transparent and Mirror Surfaces |
 | [Towards Zero-Shot Scale-Aware Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Guizilini_Towards_Zero-Shot_Scale-Aware_Monocular_Depth_Estimation_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/tri-ml/vidar) | Zero-Shot |
 | [GEDepth: Ground Embedding for Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_GEDepth_Ground_Embedding_for_Monocular_Depth_Estimation_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/qcraftai/gedepth) | Zero-Shot |
+| [Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image](https://openaccess.thecvf.com/content/ICCV2023/papers/Yin_Metric3D_Towards_Zero-shot_Metric_3D_Prediction_from_A_Single_Image_ICCV_2023_paper.pdf) | ICCV 2023 | [[Code]](https://github.com/YvanYin/Metric3D) | Zero-Shot |
 | [IEBins: Iterative Elastic Bins for Monocular Depth Estimation](https://arxiv.org/pdf/2309.14137.pdf) | NIPS 2023 | [[Code]](https://github.com/ShuweiShao/IEBins) | Classification-Regression-Based |
 | [The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation](https://arxiv.org/pdf/2306.01923.pdf) | NIPS 2023 |  | Diffusion Model |
 | [Deep Ordinal Regression Network for Monocular Depth Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf) | CVPR 2018 |  | First Work to Turn Regression to Classification |
@@ -94,3 +95,7 @@ A collection of depth estimation papers.
 ## 4.5 Transparent & Reflection
 - [Trans10K and MSD with Virtual Depths](https://1drv.ms/u/s!AgV49D1Z6rmGgZAz2I7tMepfdVrZYQ?e=jbuaJB)
 - [Booster](https://cvlab-unibo.github.io/booster-web/)
+
+## 4.6 Synthetic
+- [Hypersim](https://github.com/apple/ml-hypersim)
+- [Virtual KITTI](https://europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds)
